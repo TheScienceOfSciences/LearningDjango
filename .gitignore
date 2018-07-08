@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 /BasicProject/env1
+/DjangoWeb/env
